@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="appfun_halftransparent">#35000000</color>
+    <color name="appfun_darktransparent">#75000000</color>
+    <color name="appfun_home_header_arrow_bg">#ffFBBD00</color>
+    <color name="appfun_button_text_normal">#ff564e4b</color>
+    <color name="appfun_button_text_pressd">#ff467A8E</color>
+</resources>

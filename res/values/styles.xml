@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="CustomBackground" parent="@android:Theme.Black">
+	    <item name="android:windowBackground">@drawable/loading</item>
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowContentOverlay">@null</item>
+	</style>
+</resources>
